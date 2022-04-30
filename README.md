@@ -1,1 +1,1 @@
-# rust--ddd-playground
+# rust-ddd-playground
